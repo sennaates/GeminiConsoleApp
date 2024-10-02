@@ -14,7 +14,7 @@ public class GeminiFinal {
     public static void main(String[] args) throws IOException {
         
         System.setOut(new PrintStream(System.out, true, StandardCharsets.UTF_8));
-        String projectId = "ringed-arcana-436723-h7";
+        String projectId = "my-project-id";
         String location = "us-central1";
         String modelName = "gemini-1.5-flash-002";
         
