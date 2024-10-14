@@ -18,7 +18,7 @@ public class GeminiFinal {
         System.setOut(new PrintStream(System.out, true, StandardCharsets.UTF_8));
         System.setOut(new PrintStream(System.err, true, StandardCharsets.UTF_8));
 
-        String projectId = "your-api-code";
+        String projectId = "your-project-ide";
         String location = "us-central1";
         String modelName = "gemini-1.5-flash-002";
         Scanner scanner = new Scanner(System.in);
